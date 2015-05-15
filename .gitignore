@@ -14,6 +14,10 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# dependencies
+/node_modules
+/vendor/*
+
 # =========================
 # Operating System Files
 # =========================
@@ -36,6 +40,3 @@ Icon
 .Trashes
 
 
-# dependencies
-/node_modules
-/vendor/*
