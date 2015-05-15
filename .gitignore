@@ -14,9 +14,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
-# dependencies
-/node_modules
-/vendor/*
+# Dependency directory
+node_modules
 
 # =========================
 # Operating System Files
